@@ -21,3 +21,10 @@ Clone the repository:
 ```bash
 git clone https://github.com/yourusername/MavenDependencyMapper.git
 cd MavenDependencyMapper
+```
+Install dependencies:
+```mvn clean install```
+Running the Application
+Start the Spring Boot application:
+```mvn spring-boot:run```
+The API will be available at http://localhost:8080
