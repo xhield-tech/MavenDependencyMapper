@@ -9,9 +9,15 @@ A Spring Boot REST API service that analyzes Maven POM files to generate compreh
 - RESTful API for integration with other tools
 - Detailed dependency reporting
 
-## Use Cases
-- Dependency auditing
-- License compliance verification
-- Dependency conflict resolution
-- Project architecture analysis
-- Build optimization
+## Getting Started
+
+### Prerequisites
+- Java 11 or higher
+- Maven 3.6+
+
+### Installation
+
+Clone the repository:
+```bash
+git clone https://github.com/yourusername/MavenDependencyMapper.git
+cd MavenDependencyMapper
